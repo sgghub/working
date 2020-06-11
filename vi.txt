@@ -1,0 +1,2 @@
+s
+This is second line added in file from nano editor
